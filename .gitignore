@@ -1,15 +1,15 @@
 # 
 # Ruby RPM spec
 # 
-# Copyright:: (c) 2014 Innotronic Ingenieurbüro GmbH
+# Copyright:: (c) 2016 Innotronic Ingenieurbüro GmbH
 # URL::       http://www.inno.ch/
-# 
-# Author::    Markus Meier
-# Date::      2014-10-29
 
 # RPMs and SRPMs
 *.rpm
 *.srpm
+
+# Source archives
+*.tar.gz
 
 # RPM build dir
 /.rpmbuild
