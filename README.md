@@ -38,6 +38,7 @@ Have fun with [ruby](http://ruby-lang.org/) ;-)
 
 ## License
 Copyright (c) 2016 [Innotronic Ingenieurbüro GmbH](https://www.inno.ch/)
+
 Based on prior work from [Nathan Milford](https://github.com/nmilford/rpm-ruby)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
