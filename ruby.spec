@@ -2,7 +2,7 @@
 # ruby.spec
 #
 
-%define rubyver         2.2.3
+%define rubyver 2.2.4
 Name:           ruby
 Version:        %{rubyver}
 Release:        1%{?dist}
@@ -65,6 +65,8 @@ rm -rf $RPM_BUILD_ROOT
 %{_libdir}
 
 %changelog
+* Thu Feb 4 2016 Innotronic Ingenieurbüro GmbH <info@inno.ch> - 2.2.4
+- Update to 2.2.4
 * Tue Aug 19 2015 Innotronic Ingenieurbüro GmbH <info@inno.ch> - 2.2.3
 - Update to 2.2.3
 * Tue Aug 18 2015 Tanner Jones <tannerjones10@gmail.com> - 2.2.2
